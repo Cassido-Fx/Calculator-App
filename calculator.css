@@ -3,7 +3,6 @@ body {
     align-items: center;
     justify-content: center;
     height: 50rem;
-    background-color: aquamarine ;
 }
 
 button {
@@ -51,7 +50,7 @@ button:active {
 }
 
 .display {
-    width: 99%;
+    width: 310px;
     height: 100px;
     border: none;
     background-color: black;
