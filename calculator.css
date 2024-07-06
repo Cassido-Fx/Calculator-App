@@ -3,6 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 50rem;
+    background-color: black;
 }
 
 button {
@@ -64,6 +65,7 @@ button:active {
 
 .calculator-body {
     width: 320px;
+    border: 2px solid red;
     height: 500px;
     background-color: black;
     padding: 10px;
