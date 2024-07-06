@@ -51,10 +51,7 @@ button:active {
 }
 
 .display {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 310px;
+    width: 96%;
     height: 100px;
     border: none;
     background-color: black;
